@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "8b79fdc8929431da",
+    "type": "split",
+    "children": [
+      {
+        "id": "03cc23fd2d4344c2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00 Home 🏠.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3c4555b0fcf6b85",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c17f9320db7a12b8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "4fc855ba69c39f56",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "94a0170469afe8f7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9f6d7f4282d3d0be",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1cad492f35b5ed46",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "20fbd48b9c359188",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "00 Home 🏠.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6782d71cd600b891",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "00 Home 🏠.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c1419b09baa43d29",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "00 Home 🏠.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "03cc23fd2d4344c2",
+  "lastOpenFiles": [
+    "02 Coding 💻/002 Programming cheat sheets.md",
+    "02 Coding 💻/Breadth first search.md",
+    "02 Coding 💻/001 Personal Projects.md",
+    "00 Home 🏠.md",
+    "02 Coding 💻/003 Articles.md",
+    "02 Coding 💻/Rust cheat sheet 🦀.md",
+    "02 Coding 💻/Windlang/Windlang 🍃.md",
+    "02 Coding 💻/Go cheat sheet.md",
+    "01 Tasks 📝.md",
+    "03 College 📚/Mechanics/Mechanics 1 board.md"
+  ]
+}
