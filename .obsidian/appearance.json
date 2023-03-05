@@ -1,6 +1,6 @@
 {
   "translucency": false,
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Material Gruvbox",
   "baseFontSize": 18,
   "enabledCssSnippets": [
     "fix-youtube-button",

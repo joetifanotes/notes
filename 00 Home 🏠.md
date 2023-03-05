@@ -14,5 +14,3 @@ ___
 [[01 Tasks 📝#All tasks|All tasks]]
 # Coding 💻
 ![[01 Coding 💻]]
-
-# College 📚
