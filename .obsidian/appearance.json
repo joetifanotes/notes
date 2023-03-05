@@ -1,10 +1,11 @@
 {
   "translucency": false,
   "cssTheme": "Material Gruvbox",
-  "baseFontSize": 18,
+  "baseFontSize": 21,
   "enabledCssSnippets": [
     "fix-youtube-button",
-    "clean-embeds"
+    "clean-embeds",
+    "container-width"
   ],
   "baseFontSizeAction": true,
   "accentColor": ""

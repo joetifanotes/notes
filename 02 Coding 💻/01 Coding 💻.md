@@ -8,5 +8,5 @@
 ## Algorithms
 - [[Breadth first search]] Find the shortest path in a graph structure 
 ## Other
-- [[WSL 🐧]]
+
 
