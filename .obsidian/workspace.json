@@ -41,9 +41,12 @@
             "id": "f7e72e58c8e18a62",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "02 Coding 💻/Windlang/Windlang 🍃 board.md"
+                "file": "02 Coding 💻/Golang.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -114,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Coding 💻/Windlang/Windlang 🍃 board.md",
+                "file": "02 Coding 💻/Golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Coding 💻/Windlang/Windlang 🍃 board.md",
+                "file": "02 Coding 💻/Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Coding 💻/Windlang/Windlang 🍃 board.md"
+                "file": "02 Coding 💻/Golang.md"
               }
             }
           }
@@ -179,8 +182,10 @@
   },
   "active": "f7e72e58c8e18a62",
   "lastOpenFiles": [
-    "02 Coding 💻/Windlang/Windlang 🍃.md",
+    "00 Home 🏠.md",
+    "01 Tasks 📝.md",
     "02 Coding 💻/Windlang/Windlang 🍃 board.md",
+    "02 Coding 💻/Windlang/Windlang 🍃.md",
     "00 Daily 📅/2022-10-02.md",
     "00 Daily 📅/2022-10-15.md",
     "00 Daily 📅/2022-10-17.md",
@@ -189,8 +194,6 @@
     "00 Daily 📅/2022-10-23.md",
     "00 Daily 📅/2022-10-12.md",
     "00 Daily 📅/2022-10-19.md",
-    "00 Home 🏠.md",
-    "01 Tasks 📝.md",
     "Untitled.canvas",
     "02 Coding 💻/Rust 🦀.md",
     "02 Coding 💻/WSL 🐧.md"

@@ -20,12 +20,12 @@ kanban-plugin: basic
 
 ## Examples to implement
 
+- [ ] Inverting a binary tree
 
 
 ## In progress 🚧
 
 - [ ] Separate the compiler into smaller components
-- [ ] Inverting a binary tree
 
 
 ## Done ✅
