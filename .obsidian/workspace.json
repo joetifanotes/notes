@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Home 🏠.md",
+                "file": "01 Tasks 📝.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Home 🏠.md",
+                "file": "01 Tasks 📝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Home 🏠.md",
+                "file": "01 Tasks 📝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Home 🏠.md"
+                "file": "01 Tasks 📝.md"
               }
             }
           }
@@ -182,10 +182,12 @@
   },
   "active": "9f994e3d20d4c13d",
   "lastOpenFiles": [
-    "02 Coding 💻/Rust 🦀.md",
-    "02 Coding 💻/Rust Ownership rules.md",
+    "02 Coding 💻/01 Coding 💻.md",
+    "02 Coding 💻/02 Projects 💻.md",
     "02 Coding 💻/WSL 🐧.md",
     "00 Home 🏠.md",
+    "02 Coding 💻/Rust 🦀.md",
+    "02 Coding 💻/Rust Ownership rules.md",
     "01 Tasks 📝.md",
     "02 Coding 💻/Golang.md",
     "02 Coding 💻/Windlang/Windlang 🍃 board.md",
