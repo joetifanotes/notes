@@ -6,11 +6,11 @@ kanban-plugin: basic
 
 ## Planned 🤔
 
+- [ ] Inverting a binary tree
 
 
 ## Examples to implement
 
-- [ ] Inverting a binary tree
 - [ ] Game of life in wind
 
 
