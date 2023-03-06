@@ -38,12 +38,15 @@
             }
           },
           {
-            "id": "070b75688673c968",
+            "id": "49d561af84f52658",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "02 Coding 💻/Windlang/Windlang 🍃 board.md"
+                "file": "01 Work/Meeting notes 📝/2022-03-06.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -114,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Coding 💻/Windlang/Windlang 🍃 board.md",
+                "file": "01 Work/Meeting notes 📝/2022-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Coding 💻/Windlang/Windlang 🍃 board.md",
+                "file": "01 Work/Meeting notes 📝/2022-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Coding 💻/Windlang/Windlang 🍃 board.md"
+                "file": "01 Work/Meeting notes 📝/2022-03-06.md"
               }
             }
           }
@@ -177,10 +180,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "070b75688673c968",
+  "active": "49d561af84f52658",
   "lastOpenFiles": [
-    "01 Work/Meeting notes 📝/2022-03-06.md",
     "01 Tasks 📝.md",
+    "02 Coding 💻/Windlang/Windlang 🍃 board.md",
+    "01 Work/Meeting notes 📝/2022-03-06.md",
     "00 Home 🏠.md",
     "01 Work/Meeting notes 📝",
     "01 Work",
@@ -189,7 +193,6 @@
     "02 Coding 💻/Golang.md",
     "02 Coding 💻/Breadth first search.md",
     "02 Coding 💻/Windlang/Windlang 🍃.md",
-    "02 Coding 💻/Windlang/Windlang 🍃 board.md",
     "02 Coding 💻/Windlang",
     "02 Coding 💻/02 Projects 💻.md",
     "02 Coding 💻/01 Coding 💻.md",
