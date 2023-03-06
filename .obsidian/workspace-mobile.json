@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "8b79fdc8929431da",
+    "type": "split",
+    "children": [
+      {
+        "id": "df14eca6dc7c5595",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff9405349ba5f58c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Home 🏠.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "15952bc5e6f46f0c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Tasks 📝.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fd90502d532be28f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Coding 💻/Breadth first search.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d272f0704f6551e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e604c5307705ce32",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d6687c0b9d01b3df",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#coding💻",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9135ef7ec81a7a93",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8b3d3e9cb7bb61b3",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ba7acdc9fd48a4fd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f9e3d62a3211db64",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "02 Coding 💻/Breadth first search.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1075f51b156d0052",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "02 Coding 💻/Breadth first search.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "756a966eb8a3bb63",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "02 Coding 💻/Breadth first search.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": "Open today's daily note"
+  },
+  "active": "fd90502d532be28f",
+  "lastOpenFiles": [
+    "01 Tasks 📝.md",
+    "00 Daily 📅/2022-10-23.md",
+    "00 Daily 📅/2022-10-17.md",
+    "00 Home 🏠.md",
+    "02 Coding 💻/Breadth first search.md",
+    "00 Daily 📅/2022-10-19.md",
+    "02 Coding 💻/Golang.md",
+    "00 Daily 📅/2022-10-02.md",
+    "02 Coding 💻/Windlang/Windlang 🍃 board.md",
+    "00 Daily 📅/2022-10-05.md"
+  ]
+}
